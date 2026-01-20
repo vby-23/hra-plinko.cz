@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Zásady ochrany osobních údajů – Hra Plinko on hra-plinko</title>
-    <link>http://localhost:1313/zasady-ochrany-osobnich-udaju/</link>
+    <link>https://hra-plinko.cz/zasady-ochrany-osobnich-udaju/</link>
     <description>Recent content in Zásady ochrany osobních údajů – Hra Plinko on hra-plinko</description>
     <generator>Hugo</generator>
     <language>cs-CZ</language>
     <lastBuildDate></lastBuildDate>
-    <atom:link href="http://localhost:1313/zasady-ochrany-osobnich-udaju/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://hra-plinko.cz/zasady-ochrany-osobnich-udaju/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

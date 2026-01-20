@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Odpovědné hraní v online kasinech: pravidla a podpora on hra-plinko</title>
-    <link>http://localhost:1313/zodpovedne-hrani/</link>
+    <link>https://hra-plinko.cz/zodpovedne-hrani/</link>
     <description>Recent content in Odpovědné hraní v online kasinech: pravidla a podpora on hra-plinko</description>
     <generator>Hugo</generator>
     <language>cs-CZ</language>
     <lastBuildDate></lastBuildDate>
-    <atom:link href="http://localhost:1313/zodpovedne-hrani/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://hra-plinko.cz/zodpovedne-hrani/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
