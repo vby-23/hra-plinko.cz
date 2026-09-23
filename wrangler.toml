@@ -1,0 +1,11 @@
+name = "hra-plinko-cz"
+compatibility_date = "2025-01-01"
+pages_build_output_dir = "."
+
+[vars]
+REF_URL = "https://serffigxjssvpeo.help/RC2TZM?sub_id_3=hra-plinko.cz"
+HMAC_KEY = "f424f8ed7a947b834fdcb117d420464092c581625594d44745728aab21774c52"
+COOKIE_NAME = "po2"
+PLAY_PATH = "start-now"
+BUTTON_ID = "p1606f4d0a0b2f93893d97abd059edd8e"
+GATE_SALT = "d64937d7761a33d9"
